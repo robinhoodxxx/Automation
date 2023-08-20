@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 572.664 s <<< FAILURE! - in TestSuite
+displayCourseDetailsTest11(com.testCases.DisplayCourseDetailsTest)  Time elapsed: 167.433 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.testCases.DisplayCourseDetailsTest.displayCourseDetailsTest11(DisplayCourseDetailsTest.java:70)
+
+tearDown(com.testCases.DisplayCourseDetailsTest)  Time elapsed: 192.251 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to stop.
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'LTIN222352', ip: '10.71.233.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c7296e3d02aaa2da62b84da41f54c29, quit {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\2082382\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:55926}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55926/devtoo..., se:cdpVersion: 95.0.4638.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c7296e3d02aaa2da62b84da41f54c29
+Caused by: java.util.concurrent.ExecutionException: 
+org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'LTIN222352', ip: '10.71.233.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown
+Caused by: org.openqa.selenium.TimeoutException: 
+Process timed out after waiting for 20000 ms.
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'LTIN222352', ip: '10.71.233.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown
+
+readyToTransformFormTest21(com.testCases.ReadyToTransformTest)  Time elapsed: 148.262 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.testCases.ReadyToTransformTest.readyToTransformFormTest21(ReadyToTransformTest.java:62)
+

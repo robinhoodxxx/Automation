@@ -1,0 +1,408 @@
+2022-01-19 13:36:19,377 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-346E119F9E3AF63C869C5D9138B34403
+2022-01-19 13:36:19,478 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-460F54F2A7D1681363B7E99CD15A5D02
+2022-01-19 13:36:19,481 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-F2AE6FD937FF11653016B71B37B6857C
+2022-01-19 17:51:22,449 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-C0C660C3574C3A9265A2BE274DBD750D
+2022-01-19 17:51:22,550 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-D3993333F7837F380EA132C0FE44FADC
+2022-01-19 17:51:22,550 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-2685E9D9525DCDA5A72D24D2B4A712A1
+2022-01-19 17:51:38,718 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 17:51:38,777 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 17:51:38,778 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 18:35:43,091 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 18:36:04,249 [main] INFO IdentifyCourses - {}
+2022-01-19 18:36:04,249 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 18:43:19,393 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-388835DD1135582F7FEDC3A2BE4BF727
+2022-01-19 18:43:19,496 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-65D83EAA4ED274728DE2641BE12157B3
+2022-01-19 18:43:19,504 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-53A1C0A21FE895425EACC47DD7557BA1
+2022-01-19 18:43:33,945 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 18:44:11,259 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 18:44:32,451 [main] INFO IdentifyCourses - {}
+2022-01-19 18:44:32,452 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 18:51:49,272 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-E4098B0882775C0A5D0E1AE8761623D2
+2022-01-19 18:51:49,486 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-4E41DB20B2EB20337101ABB94343108C
+2022-01-19 18:51:49,487 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-80586E599454A09EE6F27BF24D612BF8
+2022-01-19 18:52:05,613 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 18:52:42,797 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 18:52:43,199 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 18:52:43,200 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 18:59:09,971 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 19:04:15,260 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-0253EE9A440E5AA165B987E68401A5B3
+2022-01-19 19:04:15,370 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-BC51B3875F3F70AD2F31DC5864BBDCE0
+2022-01-19 19:04:15,370 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-705FA0F9DBA124E0E31B221312CDC181
+2022-01-19 19:04:35,619 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 19:04:35,682 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 19:04:35,683 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 19:05:31,804 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 19:05:32,162 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 19:05:32,163 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 19:31:30,917 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-F47449F82BEA84535D83691814B8DBFF
+2022-01-19 19:31:30,991 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-0DA43D532EE3D1451FC54AC8F91E2BFE
+2022-01-19 19:31:30,993 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-98C1727B939D0EAD85FE57ABAC4F5632
+2022-01-19 19:31:50,419 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 19:31:50,495 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 19:31:50,496 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 19:32:38,567 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 19:32:39,032 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 19:32:39,032 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 19:34:39,478 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-5774C4B7605D553156D8787F925C4113
+2022-01-19 19:34:39,483 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-A11578CFE7B1F37FA5BDB6C0949CFA3F
+2022-01-19 19:34:39,483 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-660885290CD52588101BD481EC6AE1C1
+2022-01-19 19:34:53,001 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 19:34:53,082 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 19:34:53,083 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 19:35:50,087 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 19:35:50,728 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 19:35:50,729 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 19:37:46,226 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-FA74C7F21622ED305D72852F557DDC62
+2022-01-19 19:37:46,234 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-17229BD31BDBB443D4A8C870319EEE2D
+2022-01-19 19:37:46,234 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-7FFFA06AD71C72DF7EBD4178C6EDB6DE
+2022-01-19 19:38:04,541 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 19:38:04,668 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 19:38:04,669 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 19:39:17,743 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-C0BFD02203F916281574E0A69750E229
+2022-01-19 19:39:17,744 [main] INFO IdentifyCourses - Child WindowID: CDwindow-324C405E888C47E7C133EFC1E7064A61
+2022-01-19 19:50:25,359 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 19:52:19,800 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-2B08416F8257EE446101CD07E661C25E
+2022-01-19 19:52:19,809 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-31C47F563FEE1E20EC386B8D397DE513
+2022-01-19 19:52:19,810 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-7FEF5E4293C5A4E3E470424329BE5CF4
+2022-01-19 19:52:40,110 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 19:52:40,222 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 19:52:40,224 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 19:53:36,869 [main] INFO IdentifyCourses - {Slovak=(5), Russian=(627), Hebrew=(7), Serbian=(5), Marathi=(1), Mongolian=(6), Turkish=(55), Swedish=(3), Ukrainian=(18), Arabic=(481), Portuguese=(5), Chinese (Traditional)=(23), Chinese (China)=(118), Catalan=(6), Spanish=(611), Hindi=(13), Thai=(17), Portuguese (Portugal)=(549), Urdu=(12), Romanian=(7), Japanese=(53), Russian (Russia)=(1), Estonian=(3), Bengali=(4), Kazakh=(1), Javanese=(5), Burmese=(3), Italian=(461), Uzbek=(2), Persian=(43), Afrikaans=(12), German=(483), Telugu=(3), French=(573), Indonesian=(6), Nepali=(1), Georgian=(2), Albanian=(4), Polish=(8), Lithuanian=(2), Korean=(144), Bulgarian=(1), Tamil=(5), English=(1192), Vietnamese=(473), Hungarian=(7), Czech=(3), Greek=(21), Dutch=(7), Portuguese (Brazil)=(66)}
+2022-01-19 19:53:37,555 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 19:53:37,555 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 19:54:21,766 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-3299F569C1391ACBD9166FFB0333E4CE
+2022-01-19 19:54:21,768 [main] INFO IdentifyCourses - Child WindowID: CDwindow-7D7B04AE6333EE8B95E0D9F21D751122
+2022-01-19 20:14:39,337 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 20:19:59,612 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-7F09474916D9B06D5540E1ADFEEE44E2
+2022-01-19 20:19:59,666 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-7AA875A8233532DA7CED5A8C01D71659
+2022-01-19 20:19:59,667 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-B70E9A93256E1A374A1DFE63F61EC04B
+2022-01-19 20:20:14,603 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 20:21:34,458 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-B4C2932446C00283E47EFB92C30ABACF
+2022-01-19 20:21:34,459 [main] INFO IdentifyCourses - Child WindowID: CDwindow-6B04FFAEDE594AE69BFF55D514CD32F7
+2022-01-19 20:24:58,532 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-729EB1D62E4CD05D25F148F0594649DD
+2022-01-19 20:24:58,543 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-CED630CF68305492518F87D46B00E80C
+2022-01-19 20:24:58,545 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-246E1B42B5A3ADEB8B674085EC7E4948
+2022-01-19 20:25:22,091 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 20:25:22,206 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 20:25:22,208 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 20:26:11,150 [main] INFO IdentifyCourses - Slovak +:+ (5)
+2022-01-19 20:26:11,151 [main] INFO IdentifyCourses - Russian +:+ (627)
+2022-01-19 20:26:11,152 [main] INFO IdentifyCourses - Hebrew +:+ (7)
+2022-01-19 20:26:11,153 [main] INFO IdentifyCourses - Serbian +:+ (5)
+2022-01-19 20:26:11,153 [main] INFO IdentifyCourses - Marathi +:+ (1)
+2022-01-19 20:26:11,154 [main] INFO IdentifyCourses - Mongolian +:+ (6)
+2022-01-19 20:26:11,154 [main] INFO IdentifyCourses - Turkish +:+ (55)
+2022-01-19 20:26:11,155 [main] INFO IdentifyCourses - Swedish +:+ (3)
+2022-01-19 20:26:11,156 [main] INFO IdentifyCourses - Ukrainian +:+ (18)
+2022-01-19 20:26:11,156 [main] INFO IdentifyCourses - Arabic +:+ (481)
+2022-01-19 20:26:11,158 [main] INFO IdentifyCourses - Portuguese +:+ (5)
+2022-01-19 20:26:11,158 [main] INFO IdentifyCourses - Chinese (Traditional) +:+ (23)
+2022-01-19 20:26:11,159 [main] INFO IdentifyCourses - Chinese (China) +:+ (118)
+2022-01-19 20:26:11,159 [main] INFO IdentifyCourses - Catalan +:+ (6)
+2022-01-19 20:26:11,160 [main] INFO IdentifyCourses - Spanish +:+ (611)
+2022-01-19 20:26:11,160 [main] INFO IdentifyCourses - Hindi +:+ (13)
+2022-01-19 20:26:11,161 [main] INFO IdentifyCourses - Thai +:+ (17)
+2022-01-19 20:26:11,161 [main] INFO IdentifyCourses - Portuguese (Portugal) +:+ (549)
+2022-01-19 20:26:11,162 [main] INFO IdentifyCourses - Urdu +:+ (12)
+2022-01-19 20:26:11,162 [main] INFO IdentifyCourses - Romanian +:+ (7)
+2022-01-19 20:26:11,163 [main] INFO IdentifyCourses - Japanese +:+ (53)
+2022-01-19 20:26:11,163 [main] INFO IdentifyCourses - Russian (Russia) +:+ (1)
+2022-01-19 20:26:11,163 [main] INFO IdentifyCourses - Estonian +:+ (3)
+2022-01-19 20:26:11,164 [main] INFO IdentifyCourses - Bengali +:+ (4)
+2022-01-19 20:26:11,164 [main] INFO IdentifyCourses - Kazakh +:+ (1)
+2022-01-19 20:26:11,165 [main] INFO IdentifyCourses - Javanese +:+ (5)
+2022-01-19 20:26:11,165 [main] INFO IdentifyCourses - Burmese +:+ (3)
+2022-01-19 20:26:11,165 [main] INFO IdentifyCourses - Italian +:+ (461)
+2022-01-19 20:26:11,166 [main] INFO IdentifyCourses - Uzbek +:+ (2)
+2022-01-19 20:26:11,166 [main] INFO IdentifyCourses - Persian +:+ (43)
+2022-01-19 20:26:11,167 [main] INFO IdentifyCourses - Afrikaans +:+ (12)
+2022-01-19 20:26:11,168 [main] INFO IdentifyCourses - German +:+ (483)
+2022-01-19 20:26:11,168 [main] INFO IdentifyCourses - Telugu +:+ (3)
+2022-01-19 20:26:11,169 [main] INFO IdentifyCourses - French +:+ (573)
+2022-01-19 20:26:11,170 [main] INFO IdentifyCourses - Indonesian +:+ (6)
+2022-01-19 20:26:11,170 [main] INFO IdentifyCourses - Nepali +:+ (1)
+2022-01-19 20:26:11,171 [main] INFO IdentifyCourses - Georgian +:+ (2)
+2022-01-19 20:26:11,171 [main] INFO IdentifyCourses - Albanian +:+ (4)
+2022-01-19 20:26:11,171 [main] INFO IdentifyCourses - Polish +:+ (8)
+2022-01-19 20:26:11,172 [main] INFO IdentifyCourses - Lithuanian +:+ (2)
+2022-01-19 20:26:11,172 [main] INFO IdentifyCourses - Korean +:+ (144)
+2022-01-19 20:26:11,173 [main] INFO IdentifyCourses - Bulgarian +:+ (1)
+2022-01-19 20:26:11,173 [main] INFO IdentifyCourses - Tamil +:+ (5)
+2022-01-19 20:26:11,174 [main] INFO IdentifyCourses - English +:+ (1192)
+2022-01-19 20:26:11,175 [main] INFO IdentifyCourses - Vietnamese +:+ (473)
+2022-01-19 20:26:11,176 [main] INFO IdentifyCourses - Hungarian +:+ (7)
+2022-01-19 20:26:11,179 [main] INFO IdentifyCourses - Czech +:+ (3)
+2022-01-19 20:26:11,179 [main] INFO IdentifyCourses - Greek +:+ (21)
+2022-01-19 20:26:11,180 [main] INFO IdentifyCourses - Dutch +:+ (7)
+2022-01-19 20:26:11,185 [main] INFO IdentifyCourses - Portuguese (Brazil) +:+ (66)
+2022-01-19 20:26:11,807 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 20:26:11,808 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 20:26:56,773 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-206D21B454AB746DE1DAB5EA1F632E5A
+2022-01-19 20:26:56,774 [main] INFO IdentifyCourses - Child WindowID: CDwindow-D29AEAD4C3846EE53BA10BC2C5525E1B
+2022-01-19 20:42:04,137 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 20:43:22,263 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-12ABB31D02C81524D392BF3DAAF63E32
+2022-01-19 20:43:22,273 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-3760225BE15526445A5C7330BB10685A
+2022-01-19 20:43:22,274 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-A8386B3C1DFC5D0F798062C73634880E
+2022-01-19 20:43:45,660 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 20:43:45,768 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 20:43:45,769 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 20:44:58,223 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-1FB884C9D3C5620D77B64A90D8DCDD5F
+2022-01-19 20:44:58,224 [main] INFO IdentifyCourses - Child WindowID: CDwindow-CCFE0658BA9B86C5CF753999007ABEE8
+2022-01-19 21:01:09,766 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-8405C5A6663287BFF6E4BC0F32A0399D
+2022-01-19 21:01:09,903 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-583698ED8F99A7B7FDDDF90402B15152
+2022-01-19 21:01:09,904 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-21BFC96AB7C876B8F75E6EA89EB1FD8D
+2022-01-19 21:01:24,960 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 21:03:22,922 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-9B230238C145294D4ECEBB57DF6393FC
+2022-01-19 21:03:23,291 [main] INFO IdentifyCourses - Child WindowID: CDwindow-550916666E1135DB54A2EF3E02E164CF
+2022-01-19 21:36:08,156 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-CB13B03C1737D8F45FD67DB2E6DAEFFF
+2022-01-19 21:36:08,348 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-EE447334FAD4BC1C384FE1B39FE2D90E
+2022-01-19 21:36:08,349 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-3378E32DA11F564727E6FF0F902925D5
+2022-01-19 21:36:31,550 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 21:36:31,670 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 21:36:31,670 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 21:37:22,038 [main] INFO IdentifyCourses - Slovak +:+ (5)
+2022-01-19 21:37:22,039 [main] INFO IdentifyCourses - Russian +:+ (627)
+2022-01-19 21:37:22,040 [main] INFO IdentifyCourses - Hebrew +:+ (7)
+2022-01-19 21:37:22,041 [main] INFO IdentifyCourses - Serbian +:+ (5)
+2022-01-19 21:37:22,041 [main] INFO IdentifyCourses - Marathi +:+ (1)
+2022-01-19 21:37:22,043 [main] INFO IdentifyCourses - Mongolian +:+ (6)
+2022-01-19 21:37:22,044 [main] INFO IdentifyCourses - Turkish +:+ (55)
+2022-01-19 21:37:22,045 [main] INFO IdentifyCourses - Swedish +:+ (3)
+2022-01-19 21:37:22,045 [main] INFO IdentifyCourses - Ukrainian +:+ (18)
+2022-01-19 21:37:22,046 [main] INFO IdentifyCourses - Arabic +:+ (481)
+2022-01-19 21:37:22,049 [main] INFO IdentifyCourses - Portuguese +:+ (5)
+2022-01-19 21:37:22,050 [main] INFO IdentifyCourses - Chinese (Traditional) +:+ (23)
+2022-01-19 21:37:22,051 [main] INFO IdentifyCourses - Chinese (China) +:+ (118)
+2022-01-19 21:37:22,053 [main] INFO IdentifyCourses - Catalan +:+ (6)
+2022-01-19 21:37:22,055 [main] INFO IdentifyCourses - Spanish +:+ (611)
+2022-01-19 21:37:22,055 [main] INFO IdentifyCourses - Hindi +:+ (13)
+2022-01-19 21:37:22,056 [main] INFO IdentifyCourses - Thai +:+ (17)
+2022-01-19 21:37:22,057 [main] INFO IdentifyCourses - Portuguese (Portugal) +:+ (549)
+2022-01-19 21:37:22,058 [main] INFO IdentifyCourses - Urdu +:+ (12)
+2022-01-19 21:37:22,059 [main] INFO IdentifyCourses - Romanian +:+ (7)
+2022-01-19 21:37:22,060 [main] INFO IdentifyCourses - Japanese +:+ (53)
+2022-01-19 21:37:22,061 [main] INFO IdentifyCourses - Russian (Russia) +:+ (1)
+2022-01-19 21:37:22,061 [main] INFO IdentifyCourses - Estonian +:+ (3)
+2022-01-19 21:37:22,061 [main] INFO IdentifyCourses - Bengali +:+ (4)
+2022-01-19 21:37:22,062 [main] INFO IdentifyCourses - Kazakh +:+ (1)
+2022-01-19 21:37:22,062 [main] INFO IdentifyCourses - Javanese +:+ (5)
+2022-01-19 21:37:22,063 [main] INFO IdentifyCourses - Burmese +:+ (3)
+2022-01-19 21:37:22,063 [main] INFO IdentifyCourses - Italian +:+ (461)
+2022-01-19 21:37:22,063 [main] INFO IdentifyCourses - Uzbek +:+ (2)
+2022-01-19 21:37:22,064 [main] INFO IdentifyCourses - Persian +:+ (43)
+2022-01-19 21:37:22,064 [main] INFO IdentifyCourses - Afrikaans +:+ (12)
+2022-01-19 21:37:22,065 [main] INFO IdentifyCourses - German +:+ (483)
+2022-01-19 21:37:22,065 [main] INFO IdentifyCourses - Telugu +:+ (3)
+2022-01-19 21:37:22,065 [main] INFO IdentifyCourses - French +:+ (573)
+2022-01-19 21:37:22,067 [main] INFO IdentifyCourses - Indonesian +:+ (6)
+2022-01-19 21:37:22,068 [main] INFO IdentifyCourses - Nepali +:+ (1)
+2022-01-19 21:37:22,068 [main] INFO IdentifyCourses - Georgian +:+ (2)
+2022-01-19 21:37:22,069 [main] INFO IdentifyCourses - Albanian +:+ (4)
+2022-01-19 21:37:22,069 [main] INFO IdentifyCourses - Polish +:+ (8)
+2022-01-19 21:37:22,070 [main] INFO IdentifyCourses - Lithuanian +:+ (2)
+2022-01-19 21:37:22,070 [main] INFO IdentifyCourses - Korean +:+ (144)
+2022-01-19 21:37:22,070 [main] INFO IdentifyCourses - Bulgarian +:+ (1)
+2022-01-19 21:37:22,071 [main] INFO IdentifyCourses - Tamil +:+ (5)
+2022-01-19 21:37:22,071 [main] INFO IdentifyCourses - English +:+ (1192)
+2022-01-19 21:37:22,072 [main] INFO IdentifyCourses - Vietnamese +:+ (473)
+2022-01-19 21:37:22,073 [main] INFO IdentifyCourses - Hungarian +:+ (7)
+2022-01-19 21:37:22,073 [main] INFO IdentifyCourses - Czech +:+ (3)
+2022-01-19 21:37:22,073 [main] INFO IdentifyCourses - Greek +:+ (21)
+2022-01-19 21:37:22,074 [main] INFO IdentifyCourses - Dutch +:+ (7)
+2022-01-19 21:37:22,074 [main] INFO IdentifyCourses - Portuguese (Brazil) +:+ (66)
+2022-01-19 21:37:22,703 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 21:37:22,704 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 21:37:56,323 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-11B999AC5DE754880542A7D54063E3D6
+2022-01-19 21:37:56,324 [main] INFO IdentifyCourses - Child WindowID: CDwindow-27418092C2C830A7C939D621F5FBCC03
+2022-01-19 21:52:35,861 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-6921BB1E250FAD05B0808F8324E0B867
+2022-01-19 21:52:35,975 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-82E5AFC5D78CF7D2EFD95227782132B4
+2022-01-19 21:52:35,976 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-ED2C730485F7130A99D25F2D156D18C4
+2022-01-19 21:52:50,293 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 21:52:50,349 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 21:52:50,350 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 21:53:50,638 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-896CB2E6F4E28C28E78B076DE82FD8DB
+2022-01-19 21:53:50,638 [main] INFO IdentifyCourses - Child WindowID: CDwindow-1FCBF5ABD86AF99615DD646106EDFAB8
+2022-01-19 22:05:49,985 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-C857DB5D5248269DC1688DDF075B2DB5
+2022-01-19 22:05:50,623 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-049FF3AD67A2E27A02219D097EF8EDB4
+2022-01-19 22:05:50,625 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-D20B68B090B32AB5F12F0FBC5B12C4A7
+2022-01-19 22:06:05,181 [main] INFO IdentifyCourses - First course Details:
+TitleWeb Design for Everybody: Basics of Web Development & Coding
+Rating: 4.7
+Duration: Approx. 22 hours to complete
+2022-01-19 22:06:05,232 [main] INFO IdentifyCourses - First course Details:
+TitleIntroduction to Web Development
+Rating: 4.7
+Duration: Approximately 6 months to complete
+2022-01-19 22:06:05,234 [main] INFO IdentifyCourses - Test case TC_011 passed
+2022-01-19 22:07:07,321 [main] INFO IdentifyCourses - Slovak +:+ (5)
+2022-01-19 22:07:07,323 [main] INFO IdentifyCourses - Russian +:+ (627)
+2022-01-19 22:07:07,323 [main] INFO IdentifyCourses - Hebrew +:+ (7)
+2022-01-19 22:07:07,324 [main] INFO IdentifyCourses - Serbian +:+ (5)
+2022-01-19 22:07:07,325 [main] INFO IdentifyCourses - Marathi +:+ (1)
+2022-01-19 22:07:07,325 [main] INFO IdentifyCourses - Mongolian +:+ (6)
+2022-01-19 22:07:07,325 [main] INFO IdentifyCourses - Turkish +:+ (55)
+2022-01-19 22:07:07,326 [main] INFO IdentifyCourses - Swedish +:+ (3)
+2022-01-19 22:07:07,326 [main] INFO IdentifyCourses - Ukrainian +:+ (18)
+2022-01-19 22:07:07,327 [main] INFO IdentifyCourses - Arabic +:+ (481)
+2022-01-19 22:07:07,329 [main] INFO IdentifyCourses - Portuguese +:+ (5)
+2022-01-19 22:07:07,329 [main] INFO IdentifyCourses - Chinese (Traditional) +:+ (23)
+2022-01-19 22:07:07,329 [main] INFO IdentifyCourses - Chinese (China) +:+ (118)
+2022-01-19 22:07:07,332 [main] INFO IdentifyCourses - Catalan +:+ (6)
+2022-01-19 22:07:07,332 [main] INFO IdentifyCourses - Spanish +:+ (611)
+2022-01-19 22:07:07,332 [main] INFO IdentifyCourses - Hindi +:+ (13)
+2022-01-19 22:07:07,333 [main] INFO IdentifyCourses - Thai +:+ (17)
+2022-01-19 22:07:07,333 [main] INFO IdentifyCourses - Portuguese (Portugal) +:+ (549)
+2022-01-19 22:07:07,333 [main] INFO IdentifyCourses - Urdu +:+ (12)
+2022-01-19 22:07:07,334 [main] INFO IdentifyCourses - Romanian +:+ (7)
+2022-01-19 22:07:07,334 [main] INFO IdentifyCourses - Japanese +:+ (53)
+2022-01-19 22:07:07,334 [main] INFO IdentifyCourses - Russian (Russia) +:+ (1)
+2022-01-19 22:07:07,334 [main] INFO IdentifyCourses - Estonian +:+ (3)
+2022-01-19 22:07:07,335 [main] INFO IdentifyCourses - Bengali +:+ (4)
+2022-01-19 22:07:07,335 [main] INFO IdentifyCourses - Kazakh +:+ (1)
+2022-01-19 22:07:07,335 [main] INFO IdentifyCourses - Javanese +:+ (5)
+2022-01-19 22:07:07,352 [main] INFO IdentifyCourses - Burmese +:+ (3)
+2022-01-19 22:07:07,352 [main] INFO IdentifyCourses - Italian +:+ (461)
+2022-01-19 22:07:07,353 [main] INFO IdentifyCourses - Uzbek +:+ (2)
+2022-01-19 22:07:07,353 [main] INFO IdentifyCourses - Persian +:+ (43)
+2022-01-19 22:07:07,359 [main] INFO IdentifyCourses - Afrikaans +:+ (12)
+2022-01-19 22:07:07,359 [main] INFO IdentifyCourses - German +:+ (483)
+2022-01-19 22:07:07,360 [main] INFO IdentifyCourses - Telugu +:+ (3)
+2022-01-19 22:07:07,361 [main] INFO IdentifyCourses - French +:+ (573)
+2022-01-19 22:07:07,361 [main] INFO IdentifyCourses - Indonesian +:+ (6)
+2022-01-19 22:07:07,362 [main] INFO IdentifyCourses - Nepali +:+ (1)
+2022-01-19 22:07:07,366 [main] INFO IdentifyCourses - Georgian +:+ (2)
+2022-01-19 22:07:07,366 [main] INFO IdentifyCourses - Albanian +:+ (4)
+2022-01-19 22:07:07,367 [main] INFO IdentifyCourses - Polish +:+ (8)
+2022-01-19 22:07:07,367 [main] INFO IdentifyCourses - Lithuanian +:+ (2)
+2022-01-19 22:07:07,367 [main] INFO IdentifyCourses - Korean +:+ (144)
+2022-01-19 22:07:07,368 [main] INFO IdentifyCourses - Bulgarian +:+ (1)
+2022-01-19 22:07:07,368 [main] INFO IdentifyCourses - Tamil +:+ (5)
+2022-01-19 22:07:07,368 [main] INFO IdentifyCourses - English +:+ (1192)
+2022-01-19 22:07:07,369 [main] INFO IdentifyCourses - Vietnamese +:+ (473)
+2022-01-19 22:07:07,369 [main] INFO IdentifyCourses - Hungarian +:+ (7)
+2022-01-19 22:07:07,369 [main] INFO IdentifyCourses - Czech +:+ (3)
+2022-01-19 22:07:07,369 [main] INFO IdentifyCourses - Greek +:+ (21)
+2022-01-19 22:07:07,370 [main] INFO IdentifyCourses - Dutch +:+ (7)
+2022-01-19 22:07:07,371 [main] INFO IdentifyCourses - Portuguese (Brazil) +:+ (66)
+2022-01-19 22:07:07,824 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 22:07:07,824 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 22:07:48,110 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-EC45E5EC15C1E0A5EBD065F712448604
+2022-01-19 22:07:48,111 [main] INFO IdentifyCourses - Child WindowID: CDwindow-9BC151FB8F01BE9999C962CEC309C67B
+2022-01-19 23:17:11,737 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-94E996088E4884B0DC775CEC7ECFED25
+2022-01-19 23:17:14,968 [main] INFO IdentifyCourses - First Child WindowID: CDwindow-81B699E1FA66E69502A4BF66D2842F00
+2022-01-19 23:17:14,969 [main] INFO IdentifyCourses - Second Child WindowID: CDwindow-4ABD4F2548CF11F42A13BDAB14028421
+2022-01-19 23:18:44,501 [main] INFO IdentifyCourses - Test case TC11 failed
+2022-01-19 23:21:22,761 [main] INFO IdentifyCourses - Slovak +:+ (5)
+2022-01-19 23:21:22,762 [main] INFO IdentifyCourses - Russian +:+ (627)
+2022-01-19 23:21:22,762 [main] INFO IdentifyCourses - Hebrew +:+ (7)
+2022-01-19 23:21:22,763 [main] INFO IdentifyCourses - Serbian +:+ (5)
+2022-01-19 23:21:22,763 [main] INFO IdentifyCourses - Marathi +:+ (1)
+2022-01-19 23:21:22,763 [main] INFO IdentifyCourses - Mongolian +:+ (6)
+2022-01-19 23:21:22,764 [main] INFO IdentifyCourses - Turkish +:+ (55)
+2022-01-19 23:21:22,765 [main] INFO IdentifyCourses - Swedish +:+ (3)
+2022-01-19 23:21:22,765 [main] INFO IdentifyCourses - Ukrainian +:+ (18)
+2022-01-19 23:21:22,766 [main] INFO IdentifyCourses - Arabic +:+ (481)
+2022-01-19 23:21:22,767 [main] INFO IdentifyCourses - Portuguese +:+ (5)
+2022-01-19 23:21:22,767 [main] INFO IdentifyCourses - Chinese (Traditional) +:+ (23)
+2022-01-19 23:21:22,769 [main] INFO IdentifyCourses - Chinese (China) +:+ (118)
+2022-01-19 23:21:22,770 [main] INFO IdentifyCourses - Catalan +:+ (6)
+2022-01-19 23:21:22,771 [main] INFO IdentifyCourses - Spanish +:+ (611)
+2022-01-19 23:21:22,772 [main] INFO IdentifyCourses - Hindi +:+ (13)
+2022-01-19 23:21:22,773 [main] INFO IdentifyCourses - Thai +:+ (17)
+2022-01-19 23:21:22,774 [main] INFO IdentifyCourses - Portuguese (Portugal) +:+ (549)
+2022-01-19 23:21:22,774 [main] INFO IdentifyCourses - Urdu +:+ (12)
+2022-01-19 23:21:22,775 [main] INFO IdentifyCourses - Romanian +:+ (7)
+2022-01-19 23:21:22,776 [main] INFO IdentifyCourses - Japanese +:+ (53)
+2022-01-19 23:21:22,776 [main] INFO IdentifyCourses - Russian (Russia) +:+ (1)
+2022-01-19 23:21:22,777 [main] INFO IdentifyCourses - Estonian +:+ (3)
+2022-01-19 23:21:22,778 [main] INFO IdentifyCourses - Bengali +:+ (4)
+2022-01-19 23:21:22,781 [main] INFO IdentifyCourses - Kazakh +:+ (1)
+2022-01-19 23:21:22,783 [main] INFO IdentifyCourses - Javanese +:+ (5)
+2022-01-19 23:21:22,783 [main] INFO IdentifyCourses - Burmese +:+ (3)
+2022-01-19 23:21:22,784 [main] INFO IdentifyCourses - Italian +:+ (461)
+2022-01-19 23:21:22,785 [main] INFO IdentifyCourses - Uzbek +:+ (2)
+2022-01-19 23:21:22,785 [main] INFO IdentifyCourses - Persian +:+ (43)
+2022-01-19 23:21:22,786 [main] INFO IdentifyCourses - Afrikaans +:+ (12)
+2022-01-19 23:21:22,786 [main] INFO IdentifyCourses - German +:+ (483)
+2022-01-19 23:21:22,786 [main] INFO IdentifyCourses - Telugu +:+ (3)
+2022-01-19 23:21:22,787 [main] INFO IdentifyCourses - French +:+ (573)
+2022-01-19 23:21:22,787 [main] INFO IdentifyCourses - Indonesian +:+ (6)
+2022-01-19 23:21:22,788 [main] INFO IdentifyCourses - Nepali +:+ (1)
+2022-01-19 23:21:22,788 [main] INFO IdentifyCourses - Georgian +:+ (2)
+2022-01-19 23:21:22,789 [main] INFO IdentifyCourses - Albanian +:+ (4)
+2022-01-19 23:21:22,789 [main] INFO IdentifyCourses - Polish +:+ (8)
+2022-01-19 23:21:22,789 [main] INFO IdentifyCourses - Lithuanian +:+ (2)
+2022-01-19 23:21:22,790 [main] INFO IdentifyCourses - Korean +:+ (144)
+2022-01-19 23:21:22,790 [main] INFO IdentifyCourses - Bulgarian +:+ (1)
+2022-01-19 23:21:22,791 [main] INFO IdentifyCourses - Tamil +:+ (5)
+2022-01-19 23:21:22,791 [main] INFO IdentifyCourses - English +:+ (1192)
+2022-01-19 23:21:22,791 [main] INFO IdentifyCourses - Vietnamese +:+ (473)
+2022-01-19 23:21:22,791 [main] INFO IdentifyCourses - Hungarian +:+ (7)
+2022-01-19 23:21:22,792 [main] INFO IdentifyCourses - Czech +:+ (3)
+2022-01-19 23:21:22,792 [main] INFO IdentifyCourses - Greek +:+ (21)
+2022-01-19 23:21:22,794 [main] INFO IdentifyCourses - Dutch +:+ (7)
+2022-01-19 23:21:22,797 [main] INFO IdentifyCourses - Portuguese (Brazil) +:+ (66)
+2022-01-19 23:21:23,399 [main] INFO IdentifyCourses - {Beginner=(522), Advanced=(70), Mixed=(162)}
+2022-01-19 23:21:23,399 [main] INFO IdentifyCourses - displayLanguagesandLevelsTest15 testcase passed
+2022-01-19 23:23:25,454 [main] INFO IdentifyCourses - Parent WindowID: CDwindow-EFAF3049C8FB434362A564C3E47F7271
+2022-01-19 23:23:25,456 [main] INFO IdentifyCourses - Child WindowID: CDwindow-6CAE07053880C813EA57885F38462CED
